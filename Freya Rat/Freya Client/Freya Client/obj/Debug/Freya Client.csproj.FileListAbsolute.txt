@@ -1,0 +1,11 @@
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\bin\Debug\Freya Client.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\bin\Debug\Freya Client.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\bin\Debug\Freya Client.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya_Client.Form1.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya_Client.Properties.Resources.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.csproj.GenerateResource.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Client\Freya Client\obj\Debug\Freya Client.pdb

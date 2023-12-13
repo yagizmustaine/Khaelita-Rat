@@ -1,0 +1,22 @@
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya_Server.Form1.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya_Server.Properties.Resources.resources
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.GenerateResource.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.pdb
+D:\Repos\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.exe.config
+D:\Repos\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.exe
+D:\Repos\Freya Rat\Freya Server\Freya Server\bin\Debug\Freya Server.pdb
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.AssemblyReference.cache
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.SuggestedBindingRedirects.cache
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya_Server.Form1.resources
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya_Server.Properties.Resources.resources
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.GenerateResource.cache
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.csproj.CoreCompileInputs.cache
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.exe
+D:\Repos\Freya Rat\Freya Server\Freya Server\obj\Debug\Freya Server.pdb
